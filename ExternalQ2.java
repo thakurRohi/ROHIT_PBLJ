@@ -1,4 +1,4 @@
-//write a java program to writ custom exception if age less tahn 18 then throw identifier exception
+//write a java program to write custom exception if age less tahn 18 then throw identifier exception
 import java.util.Scanner;
 
 class IdentifierException extends Exception {
